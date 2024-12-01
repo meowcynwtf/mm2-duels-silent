@@ -2,7 +2,6 @@ local namecall
 local RunService = game:GetService("RunService")
 local ClosestPlayer = nil
 local ShootStart
-getgenv().prediction = 0.04
 --60/70 ping = 0.04
 --130/140 ping = 0.09
 -- wide ping ranges and they arent great, i didnt have time for more
